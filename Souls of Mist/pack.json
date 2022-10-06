@@ -1,0 +1,9 @@
+{
+  "name": "Souls of Mist",
+  "description": "The character creation theme from Demon's Souls (2009). Composed by Motoi Sakuraba.",
+  "author": "MadmanEpic",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

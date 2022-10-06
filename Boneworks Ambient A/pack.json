@@ -1,0 +1,9 @@
+{
+  "name": "Ambient A",
+  "description": "Ambient A from the Boneworks OST. Composed by Michael Wyckoff.",
+  "author": "MadmanEpic",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
