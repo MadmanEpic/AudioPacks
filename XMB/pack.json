@@ -8,12 +8,9 @@
   "ignore": [
     "deck_ui_toast.wav",
     "deck_ui_typing.wav",
-    "confirmation_negative.wav",
-    "confirmation_positive.wav",
     "deck_ui_message_toast.wav",
     "deck_ui_misc_01.wav",
     "deck_ui_misc_08.wav",
-    "deck_ui_tile_scroll.wav",
     "steam_at_mention.m4a",
     "steam_chatroom_notification.m4a",
     "ui_steam_message_old_smooth.m4a",
